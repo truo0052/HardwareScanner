@@ -1,6 +1,6 @@
 ﻿# HardwareScanner 
 
-A lightweight **Java Swing** desktop application that fetches and displays your Windows PC's full system information — including CPU, RAM, BIOS, OS details, network adapters, hotfixes, and more — all in a clean, scrollable GUI.
+A lightweight **Java Swing** desktop application that fetches and displays your Windows PC's full system information from systeminfo[cmd]. Display CPU, RAM, BIOS, OS details, network adapters, hotfixes, and more in a clean, scrollable GUI.
 
 ## Features
 
